@@ -11,7 +11,7 @@ Just run the main.py!
 
 ## Results
 
-<img src="/imgs/loss.png" width="85%" height="85%">
-<img src="/imgs/SIR_PINN.png" width="85%" height="85%">
-<img src="/imgs/SIR_ODEsolver.png" width="85%" height="85%">
+<img src="/imgs/loss.png" width="70%" height="70%">
+<img src="/imgs/SIR_PINN.png" width="70%" height="70%">
+<img src="/imgs/SIR_ODEsolver.png" width="70%" height="70%">
 A comparison to ODEsolver.
