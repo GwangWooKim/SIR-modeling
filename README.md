@@ -1,7 +1,7 @@
 <img src="/imgs/model.png" width="85%" height="85%">
 
 # Application of PINN to SIR modeling
-This is an example of application of physics informed neural networks (PINNs). If you want to know more details, please refer to final_report.pdf in this repository.
+This is an example of application of physics informed neural networks (PINNs). If you want to know more details, please refer to Final Report.pdf in this repository that contains backgrounds, methods, results, and discussion.
 
 ## Dependency
 * torch==1.13.1 (Perhaps?)
