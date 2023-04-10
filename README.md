@@ -1,6 +1,6 @@
 <img src="/imgs/model.png" width="85%" height="85%">
 
-# Application of PINN to [SIR](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology) modeling
+# Application of [PINN](https://en.wikipedia.org/wiki/Physics-informed_neural_networks) to [SIR](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology) modeling
 This is an example of application of physics informed neural networks (PINNs). If you want to know more details, please refer to Final Report.pdf in this repository that contains backgrounds, methods, results, and discussion.
 
 ## Dependency
