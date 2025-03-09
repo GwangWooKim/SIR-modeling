@@ -3,6 +3,8 @@
 # Application of [PINN](https://en.wikipedia.org/wiki/Physics-informed_neural_networks) to [SIR](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology) modeling
 This is an example of application of physics informed neural networks (PINNs). If you want to know more details, please refer to [`Final Report.pdf (Korean)`](https://github.com/GwangWooKim/SIR-modeling/blob/main/Final%20Report.pdf) in this repository that contains backgrounds, methods, results, and discussion.
 
+(2025/03/09) The SEIR model, a common extension of the SIR model, has been added. Thanks to Abhishek Soni!
+
 ## Dependency
 * torch==1.13.1
 
